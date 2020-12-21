@@ -2,6 +2,7 @@
 ### Yo. 👋
 ## Join for free candy
 ➡️ [Join discord here](https://discord.gg/txsweyv)
+
 ![ye](https://github-readme-stats.vercel.app/api?username=donwiktorb&show_icons=true&theme=merko)
 
 <!--
